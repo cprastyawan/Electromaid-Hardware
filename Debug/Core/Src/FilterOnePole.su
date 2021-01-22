@@ -1,0 +1,13 @@
+FilterOnePole.c:5:8:FilterOnePole_init	24	static
+FilterOnePole.c:10:8:FilterOnePole_setFilter	32	static
+FilterOnePole.c:21:8:FilterOnePole_setFrequency	24	static
+FilterOnePole.c:25:8:FilterOnePole_setTau	16	static
+FilterOnePole.c:29:9:FilterOnePole_input	48	static
+FilterOnePole.c:54:7:FilterOnePole_output	24	static
+FilterOnePole.c:79:6:FilterOnePole_setToNewValue	16	static
+FilterOnePole.c:83:6:FilterOnePoleCascade_init	32	static
+FilterOnePole.c:93:6:FilterOnePoleCascade_setRiseTime	24	static
+FilterOnePole.c:100:6:FilterOnePoleCascade_setToNewValue	16	static
+FilterOnePole.c:106:7:FilterOnePoleCascade_input	24	static
+FilterOnePole.c:111:7:FilterOnePoleCascade_output	16	static
+FilterOnePole.c:115:10:micros	8	static

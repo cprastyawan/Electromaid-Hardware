@@ -1,0 +1,8 @@
+RunningStatistics.c:4:6:RunningStatistics_input	16	static
+RunningStatistics.c:10:6:RunningStatistics_init	16	static
+RunningStatistics.c:18:6:RunningStatistics_setWindowSecs	16	static
+RunningStatistics.c:25:6:RunningStatistics_setInitialValue	24	static
+RunningStatistics.c:31:7:RunningStatistics_mean	16	static
+RunningStatistics.c:35:7:RunningStatistics_variance	32	static
+RunningStatistics.c:44:7:RunningStatistics_sigma	24	static
+RunningStatistics.c:52:7:RunningStatistics_CV	24	static
